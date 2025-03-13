@@ -94,7 +94,6 @@ docker push <AWS-Account-ID>.dkr.ecr.<AWS-Region>.amazonaws.com/teamflask-repo:l
 teamflask-aws-app-runner/
 ├── app.py               # Flask application code
 ├── Dockerfile           # Docker configuration
-├── screenshots/         # Application screenshots
 └── README.md            # Project documentation
 ```
 
