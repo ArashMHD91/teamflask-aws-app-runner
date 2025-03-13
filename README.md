@@ -2,7 +2,7 @@
 
 A simple Flask web application deployed to AWS using App Runner and containerization. This project demonstrates how to build and deploy a containerized Flask application that displays team information through environment variables.
 
-![TeamFlask Screenshot](screenshots/teamflask-screenshot.png)
+![Image](https://github.com/user-attachments/assets/9be38486-66aa-4cc7-900c-a706e9b9dc7a)
 
 ## Project Overview
 
